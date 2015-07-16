@@ -1,0 +1,7 @@
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\bin\Debug\StringCalculatorTestProject.dll
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\bin\Debug\StringCalculatorTestProject.pdb
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\bin\Debug\StringCalculatorProject.dll
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\bin\Debug\StringCalculatorProject.pdb
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.csprojResolveAssemblyReference.cache
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.dll
+C:\Users\TMoore.PCI\Documents\Visual Studio 2012\Projects\StringCalculatorProject\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.pdb

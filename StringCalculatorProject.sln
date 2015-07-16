@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorProject", "StringCalculatorProject\StringCalculatorProject.csproj", "{D49CBC21-7471-4A56-B992-63BC7C6682FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorTestProject", "StringCalculatorTestProject\StringCalculatorTestProject.csproj", "{4A56627B-5BEE-414B-A63C-3F4B4448718B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49CBC21-7471-4A56-B992-63BC7C6682FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49CBC21-7471-4A56-B992-63BC7C6682FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49CBC21-7471-4A56-B992-63BC7C6682FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49CBC21-7471-4A56-B992-63BC7C6682FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A56627B-5BEE-414B-A63C-3F4B4448718B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A56627B-5BEE-414B-A63C-3F4B4448718B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A56627B-5BEE-414B-A63C-3F4B4448718B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A56627B-5BEE-414B-A63C-3F4B4448718B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
